@@ -15,7 +15,7 @@ Requirements:
 
 - Arduino Software: Install the Arduino software (IDE) on your computer to upload the provided Arduino sketch to the Arduino board.
 
-- Python Libraries: Install the necessary Python libraries listed in the requirements.txt file. You can use pip, Anaconda, or any other package manager to install the required libraries.
+- Python Libraries:You can use pip, Anaconda, or any other package manager to install the required libraries.
 
 Note: Make sure you have the necessary drivers installed for your camera and Arduino board to ensure proper communication and functionality.
 
