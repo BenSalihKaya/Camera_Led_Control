@@ -50,9 +50,6 @@ Installation and Usage:
 Contributing:
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
-License:
-This project is licensed under the [Insert License]. Please see the LICENSE file for more details.
-
 Acknowledgments:
 This project was inspired by the combination of computer vision techniques, physical computing with Arduino, and real-time image processing applications. We acknowledge the invaluable resources and documentation provided by the OpenCV, Arduino, and Python communities.
 
